@@ -1,6 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Lucas_Cavalcante_Junges",
+	"author": {
+		"name": "Lucas Cavalcante Junges",
+		"email": "lucaskavalkantej@gmail.com"
+	},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
