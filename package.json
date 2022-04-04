@@ -1,9 +1,15 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0",
 	"author": {
 		"name": "Lucas Cavalcante Junges",
 		"email": "lucaskavalkantej@gmail.com"
 	},
+	"description": "A learning project to test out node.js",
+	"license": "LucasCJ",
+	"keywords": [
+		"freecodecamp", "farathorn", "learning"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
